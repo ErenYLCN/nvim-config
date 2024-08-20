@@ -1,1 +1,2 @@
-require("erenyalcin.core.options")
+require("erenyalcin.core")
+require("erenyalcin.lazy")
